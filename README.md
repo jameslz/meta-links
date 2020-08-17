@@ -1,4 +1,4 @@
-# meta-links: assocoiate funcation catalog, abundance and taxonomy
+# meta-links: associate function catalog, abundance and taxonomy
 
 example: 
   
